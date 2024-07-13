@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oleksandr-by
-- 👀 I’m interested in predictioin analytics
+- 👀 I’m interested in prediction analytics
 - 🌱 I’m currently learning Spark
 - 💞️ I’m looking to collaborate on API weather hackathones
 - 📫oleksandr.by@gmail.com
